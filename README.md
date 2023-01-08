@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently working on Aubay in portugal, looking to collaborate on projects that the main focus is acessibility, not on any great project now but looking for one, current i'm deep diving on restfull apis and japonese language
+🛠️ I'm Currently working on Aubay in portugal
+👯 I'm looking to collaborate on projects that the main focus is acessibility
+🌱 Not on any great project now but looking for one, current i'm deep diving on restfull apis and japonese language
 
 
 ## 🌐 Socials:
